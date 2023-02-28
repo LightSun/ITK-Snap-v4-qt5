@@ -1,0 +1,6 @@
+[submodule "Submodules/c3d"]
+	path = Submodules/c3d
+	url = git@github.com:pyushkevich/c3d.git
+[submodule "Submodules/greedy"]
+	path = Submodules/greedy
+	url = git@github.com:pyushkevich/greedy.git
